@@ -1,0 +1,1 @@
+# focal-length-of-spherical-mirror
